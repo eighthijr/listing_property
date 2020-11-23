@@ -17,3 +17,5 @@ fields:
     schema:
       format: markdown
   label: Content
+pages:
+- pages/_listings/property-2.md
