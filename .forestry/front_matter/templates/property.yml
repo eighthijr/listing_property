@@ -18,5 +18,3 @@ fields:
       format: markdown
   label: Content
   description: Content Goes Here!
-pages:
-- pages/_listings/property-2.md
