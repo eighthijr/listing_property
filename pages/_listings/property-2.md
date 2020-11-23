@@ -1,6 +1,6 @@
 ---
 layout: property
 title: Property 2
-published: false
+content: Property 2
 
 ---
