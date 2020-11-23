@@ -2,6 +2,12 @@
 label: Property
 hide_body: false
 fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+  description: Title of Page
 - name: content
   type: textarea
   default: ''
