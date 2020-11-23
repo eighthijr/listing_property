@@ -6,3 +6,7 @@ collections:
   listings:
     output: true
     permalink: /listings/:path/
+  blog:
+    output: true
+    permalink: /blog/:path/
+collections_dir: pages
