@@ -5,8 +5,14 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: pages/_blog
+  label: Blog Posts
+  create: all
+  match: "**/*"
+  new_doc_ext: ".md"
+- type: directory
   path: pages/_listings
-  label: Listings
+  label: Property Listings
   create: documents
   match: "**/*"
   new_doc_ext: ".md"
