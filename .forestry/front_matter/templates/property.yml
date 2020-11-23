@@ -8,5 +8,15 @@ fields:
 - type: text
   name: title
   label: title
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Content
+  description: Content Goes Here!
 pages:
 - pages/_listings/property-2.md
