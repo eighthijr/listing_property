@@ -13,3 +13,5 @@ fields:
   config: {}
   label: Images
   description: Upload Images Here
+pages:
+- pages/_listings/property-3.md
