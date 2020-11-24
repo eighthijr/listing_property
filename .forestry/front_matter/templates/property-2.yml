@@ -8,3 +8,8 @@ fields:
 - type: text
   name: title
   label: title
+- name: images
+  type: image_gallery
+  config: {}
+  label: Images
+  description: Upload Images Here
