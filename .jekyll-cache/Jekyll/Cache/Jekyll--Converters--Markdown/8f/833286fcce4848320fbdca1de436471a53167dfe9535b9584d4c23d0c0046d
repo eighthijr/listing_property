@@ -1,0 +1,51 @@
+I"¼<div class="row my-3">
+  <div class="col-12">
+  </div>
+  <div class="col-12 col-lg-4">
+  </div>
+  <div class="col-12 col-lg-8">
+  </div>
+</div>
+
+<div class="row my-3">
+  <div class="col-12 col-lg-4">
+    <div class="card">
+      <img src="/uploads/apartment-1.jpg" class="card-img-top" alt="" />
+      <div class="card-img-overlay--m">
+        <div class="d-flex">
+          <h5>Hildo Kat (Director)</h5>
+        </div>
+      </div>
+    </div>
+    <p>
+      Dutch entrepreneur who moved to Bulgaria over 12 years ago and has a Bulgarian family speaks Bulgarian as a second language and English and always happy to help and guide new buyers live there dream.
+    </p>
+  </div>
+  <div class="col-12 col-lg-4">
+    <div class="card">
+      <img src="/uploads/apartment-1.jpg" class="card-img-top" alt="" />
+      <div class="card-img-overlay--m">
+        <div class="d-flex">
+          <h5>Evelyn Harris</h5>
+        </div>
+      </div>
+    </div>
+    <p>
+      Accounts manager loves to help settle in new customers to there new homes and always on standby to answer any and all questions you have about the local area schools cost of living hospitals insurance ect
+    </p>
+  </div>
+  <div class="col-12 col-lg-4">
+    <div class="card">
+      <img src="/uploads/apartment-1.jpg" class="card-img-top" alt="" />
+      <div class="card-img-overlay--m">
+        <div class="d-flex">
+          <h5>Martin Ashworth</h5>
+        </div>
+      </div>
+    </div>
+    <p>
+      Martin has been in real estate in Bulgaria for the last 20 years and knows the industry like the back of his hand he can deal with all the legal details in buying the property and insure a safe and secure transaction and hand over.
+    </p>
+  </div>
+</div>
+:ET

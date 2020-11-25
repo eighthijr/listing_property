@@ -1,0 +1,48 @@
+I"ð<div class="row">
+  <div class="col-12 col-md-3">
+    <h4>Contact Us</h4>
+  </div>
+  <div class="col-12 col-md-9">
+    <form action="https://formspree.io/f/xrgoaead" method="post">
+  <div class="row">
+    <div class="col-12">
+      <div class="form-group">
+        <label for="exampleFormControlTextarea1">Messages</label>
+        <textarea name="messages" class="form-control" id="exampleFormControlTextarea1" rows="7"></textarea>
+      </div>
+    </div>
+    <div class="col-12">
+      <div class="form-group">
+        <label for="formGroupExampleInput">Details</label>
+        <input name="name" type="text" class="form-control" id="formGroupExampleInput" placeholder="Name" />
+      </div>
+      <div class="form-group">
+        <input name="_replyto" type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com" />
+      </div>
+      <div class="form-group">
+        <input type="phone" class="form-control" id="formGroupExampleInput" placeholder="Phone Number" />
+      </div>
+      <small id="passwordHelpBlock" class="form-text text-muted mb-3">
+        By submitting, I agree to the Terms of Use and Privacy Policy of <strong>New Life Estates</strong> / you including the collection, use, disclosure, processing, storage and handling of my personal information; and direct marketing communications from you and / or your partners.
+      </small>
+      <button type="submit" class="btn btn-primary btn-block mb-2">Submit</button>
+    </div>
+  </div>
+</form>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-12 col-md-3">
+    57 Stefan Stambolovo Street,<br /> 
+    Viliko Tarnovo 5000<br /><br />
+    sales@newlifeestates.com<br />
+    Tel UK: +447867654555<br />
+    Holland: 12345678666<br />
+    Bulgaria:+359879002292<br />
+  </div>
+  <div class="col-12 col-md-9">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11619.269924325497!2d25.551598578545363!3d43.27619943866807!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40aecca0994e0f9f%3A0xa00a014cd0f27a0!2zNTE5MiDQodGC0LXRhNCw0L0g0KHRgtCw0LzQsdC-0LvQvtCy0L4sIEJ1bGdhcmlh!5e0!3m2!1sen!2sid!4v1606334000399!5m2!1sen!2sid" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+  </div>
+</div>
+:ET

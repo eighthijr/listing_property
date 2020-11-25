@@ -1,0 +1,135 @@
+I"y<p>Properties for Sale Monthly
+ZERO Interest %</p>
+
+<p>The Pay Monthly plan requires an initial non-refundable of €999.00 deposit in order to reserve the property you want to buy. After the deposit is paid, you have 1 month to come and view the property, sign paperwork, and get everything set for the purchase. Then, every month on the same date of the deposit, starting from the month after the deposit is paid, you need to pay the instalments agreed at €350.00 until the property is paid off. Once the property is fully paid, we have 1 month to complete the transfer (notary deal) to your name (fees for the deal are not included in the property price).</p>
+
+<div class="row my-5">
+  
+  <div class="col-12 col-md-6 col-lg-4">
+    <div class="card">
+      <img src="https://source.unsplash.com/GRnU60VzBnE" class="card-img-top" alt="" />
+      <div class="card-img-overlay--m">
+        <div class="d-flex justify-content-between align-items-center">
+          <h5>Rp. </h5>
+          <span class="badge badge-primary">
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">
+          <a href="/listings/property-1/"></a><br />
+          <small>
+            , 
+          </small>
+        </h5>
+        <p class="card-text small">
+          <br />
+          Surface Area:  m<sup>2</sup> | Building Area:  m<sup>2</sup>
+        </p>
+        <div class="d-flex justify-content-between align-items-center">
+          <p class="mb-0">
+            <i class="fas fa-bed"></i>  -
+            <i class="fas fa-bath"></i> 
+          </p>
+          <div>
+            <a href="/contact/" class="btn btn-sm btn-outline-primary">
+              Contact Us
+            </a>
+            <a href="/listings/property-1/" class="btn btn-sm btn-primary">
+              See Details
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="col-12 col-md-6 col-lg-4">
+    <div class="card">
+      <img src="https://source.unsplash.com/GRnU60VzBnE" class="card-img-top" alt="" />
+      <div class="card-img-overlay--m">
+        <div class="d-flex justify-content-between align-items-center">
+          <h5>Rp. </h5>
+          <span class="badge badge-primary">
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">
+          <a href="/listings/property-2/"></a><br />
+          <small>
+            , 
+          </small>
+        </h5>
+        <p class="card-text small">
+          <br />
+          Surface Area:  m<sup>2</sup> | Building Area:  m<sup>2</sup>
+        </p>
+        <div class="d-flex justify-content-between align-items-center">
+          <p class="mb-0">
+            <i class="fas fa-bed"></i>  -
+            <i class="fas fa-bath"></i> 
+          </p>
+          <div>
+            <a href="/contact/" class="btn btn-sm btn-outline-primary">
+              Contact Us
+            </a>
+            <a href="/listings/property-2/" class="btn btn-sm btn-primary">
+              See Details
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="col-12 col-md-6 col-lg-4">
+    <div class="card">
+      <img src="https://source.unsplash.com/GRnU60VzBnE" class="card-img-top" alt="" />
+      <div class="card-img-overlay--m">
+        <div class="d-flex justify-content-between align-items-center">
+          <h5>Rp. </h5>
+          <span class="badge badge-primary">
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">
+          <a href="/listings/property-3/"></a><br />
+          <small>
+            , 
+          </small>
+        </h5>
+        <p class="card-text small">
+          <br />
+          Surface Area:  m<sup>2</sup> | Building Area:  m<sup>2</sup>
+        </p>
+        <div class="d-flex justify-content-between align-items-center">
+          <p class="mb-0">
+            <i class="fas fa-bed"></i>  -
+            <i class="fas fa-bath"></i> 
+          </p>
+          <div>
+            <a href="/contact/" class="btn btn-sm btn-outline-primary">
+              Contact Us
+            </a>
+            <a href="/listings/property-3/" class="btn btn-sm btn-primary">
+              See Details
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+</div>
+:ET

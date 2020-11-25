@@ -1,0 +1,46 @@
+<div class="container-fluid py-3 mb-3">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 offset-lg-1 col-lg-7 text-center text-lg-left">
+        <ul class="nav nav-pills nav-fill">
+          {% for nav in site.data.navigations %}
+          <li class="nav-item">
+            <a class="nav-link text-uppercase font-weight-bold {% if nav.url == page.url %}text-white bg-secondary{% else %}text-muted{% endif %}" href="{{ nav.url }}">
+              {{ nav.title }}
+            </a>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="col-12 col-lg-3 text-center text-lg-right">
+        <ul class="list-inline py-3 py-lg-0 mb-0">
+          <li class="list-inline-item">
+            <a class="nav-link p-0" href="#">
+              <i class="fab fa-facebook-square"></i>
+            </a>
+          </li>
+          <li class="list-inline-item">
+            <a class="nav-link p-0" href="#">
+              <i class="fab fa-twitter-square"></i>
+            </a>
+          </li>
+          <li class="list-inline-item">
+            <a class="nav-link p-0" href="#">
+              <i class="fab fa-youtube-square"></i>
+            </a>
+          </li>
+          <li class="list-inline-item">
+            <a class="nav-link p-0" href="#">
+              <i class="fab fa-pinterest-square"></i>
+            </a>
+          </li>
+          <li class="list-inline-item">
+            <a class="nav-link p-0" href="#">
+              <i class="fab fa-instagram-square"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>

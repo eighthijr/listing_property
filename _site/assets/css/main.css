@@ -1,0 +1,17 @@
+body { background: #ffffff; color: #000000; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; }
+
+.fab { margin-top: 2px; font-size: 36px; }
+
+.fa-facebook-square { color: #3b5998; }
+
+.fa-twitter-square { color: #1da1f2; }
+
+.fa-youtube-square { color: #ff0000; }
+
+.fa-pinterest-square { color: #e60023; }
+
+.fa-instagram-square { color: #c13584; }
+
+.card-img-overlay--m { position: absolute; right: 0; bottom: 0; left: 0; max-height: 70px; padding: 1.25rem; background-color: rgba(173, 216, 230, 0.75); color: white; }
+
+/*# sourceMappingURL=main.css.map */

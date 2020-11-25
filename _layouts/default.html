@@ -4,9 +4,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
     <title>{{ page.title }} - {{ site.title }}</title>
+
+    {% include bootstrap-css.html %}
+    
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css'>
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
   </head>
   <body>
+    {% include navigations.html %}
+    {% include home-container-fluid-2.html %}
+
     {{ content}}
+
+    {% include footer.html %}
+
+    {% include bootstrap-js.html %}
   </body>
 </html>

@@ -9,4 +9,11 @@ collections:
   blog:
     output: true
     permalink: /blog/:path/
-collections_dir: pages
+collections_dir: collections
+
+# Social Media Links
+fb-link: https://facebook.com/
+tw-link: https://twitter.com/
+yt-link: https://youtube.com/
+pt-link: https://pinterest.com/
+ig-link: https://instagram.com/
