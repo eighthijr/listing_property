@@ -2,15 +2,15 @@ body { background: #ffffff; color: #000000; font-family: -apple-system, BlinkMac
 
 .fab { margin-top: 2px; font-size: 36px; }
 
-.fa-facebook-square { color: #3b5998; }
+.fa-facebook-square { color: gray; }
 
-.fa-twitter-square { color: #1da1f2; }
+.fa-twitter-square { color: gray; }
 
-.fa-youtube-square { color: #ff0000; }
+.fa-youtube-square { color: gray; }
 
-.fa-pinterest-square { color: #e60023; }
+.fa-pinterest-square { color: gray; }
 
-.fa-instagram-square { color: #c13584; }
+.fa-instagram-square { color: gray; }
 
 .card-img-overlay--m { position: absolute; right: 0; bottom: 0; left: 0; max-height: 70px; padding: 1.25rem; background-color: rgba(173, 216, 230, 0.75); color: white; }
 
